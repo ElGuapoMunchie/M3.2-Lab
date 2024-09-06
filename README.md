@@ -2,23 +2,12 @@
 
 ## Overview
 
-TODO: Write a project description
+This project entailed using HTML to markup the raw text of a letter- 
+transforming it into a well organized and visually appealing letter.
+It was created solely using HTML and css, but the HTML controls the 
+majority of the appearence of the site.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+Special thanks for Professor Panter for supplying all starter code
+(https://github.com/shanep/web-dev-starter)
